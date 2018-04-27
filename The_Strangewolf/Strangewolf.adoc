@@ -1,0 +1,27 @@
+= Strangewolf
+
+When you *take the Angry Condition* you transform into the Strangewolf and remain in that form as long as angry is ticked or until the scene ends.
+While transformed the following take effect:
+
+* Replace *Directly Engage a Threat* with the following:
+When you *aggressively engage a threat without care for your own or other's safety*,
+roll \+Danger. On a hit, you cause significant damage to your target.
+On a 7-9, choose 2. On a 10+, choose 1.
+** Your aggressive attack leaves an opening, your opposition gets an opportunity
+** You take significant damage yourself. Struggle past the pain and mark 2 conditions.
+** you frighten others you had not intended to scare
+** you hurt someone or break something you shouldn’t have
+
+* Replace *defend someone* with the following:
+When you *aggressively defend a large group or area*, roll \+Savior. On a hit, you create an
+opportunity for yourself to press the attack, and
+take +1 forward to pursue it. On a 10+, the
+collateral damage is minimal.
+
+* Replace *Unleash your Powers* With the following:
+When you *give in to the destructive nature of the Beast to overcome an obstacle or reshape your environment* roll +Freak.
+On a hit, you do it. On a 7-9, mark a condition or the GM will tell you how the mindless destruction will cost you or cause further trouble.
+
+
+You may attempt to resist the transformation by rolling \+Mundane.
+On a 10+, you successfully resist the transformation and calm yourself. Clear the angry condition. On a 7-9, you resist temporarily, but you must act to clear the angry condition immediately or transform anyway. On a miss, you transform and must immediately either *Aggressively engage* or *give in to the destructive nature*.
