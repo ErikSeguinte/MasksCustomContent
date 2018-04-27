@@ -1,0 +1,102 @@
+= Galahad
+:icons: font
+
+You've done it. You're a hero. It’s official and everyone believes it. You’ve got corporate backing, a catchy name, famous teammates, a spiffy new power suit. You’ve even got a publicist-supervised twitter feed! It’s everything you’ve ever wanted.
+
+It is what you wanted, right?
+
+It’s just that something feels off. You don’t want to admit it, but none of this really feels like you. It feels like what someone else thinks you should be. Like somebody wrote the definition of a “proper hero” and fit you into it. Not to mention the fact that that beautiful power suit never seems to do what you want it to.
+
+But you’re a hero now. That’s what matters. You’ve just got to keep telling yourself that.
+
+After all, it’s a dream come true.
+
+
+== Galahad Power-suit
+When you *Don the Experimental Power Suit of Galahad* the following takes effect.
+
+* Your powers and ability change to:
+** Experimental Jet Boosters
+** Experimental Weapon Systems
+** Experimental Strength & Tactics, Response Enhancement & Support System (*STRESS*)
+* Whenever you first don the armor, mark insecure if it isn't already.
+* For every scene in which you continue wearing the armor, mark insecure if it isn't already.
+* While in possession of the armor, you may not permanently reject the influence of another member of the Icons, and take a -1 to reject their influence.
+* You gain an additional condition called *Damaged*.
+** Whenever *Damaged* is marked, you take +1 to *Take a powerful Blow* and a -2 to certain Galahad moves.
+** When you must take the Damaged condition and it is already marked, the armor takes *Catastrophic damage* and cannot be used normally.
+** To clear the Damaged condition disable a power during a critical moment as you reallocate your suit's resources.
+** You need time, external help, or special equipment or abilities to reactivate a power or to perform repairs.
+** Alternatively, you can abandon the armor.
+
+== Overcharged
+When you *Push your systems to the limit, and then keep pushing*, roll +Danger.
+On a hit, hold 3 charge. On a 7-9, mark a condition.
+On a miss, hold 2 charge and take the damaged condition.
+
+When you spend all of your charge or the scene ends, take the damaged condition.
+
+☑ Disengage Safety Systems::
+Spend a charge to add +1 to *Directly Engage a Threat*.
+You will cause unwanted collateral damage.
+
+☐ Hitting the NOS::
+Spend 1 charge to move to any place you choose within the scene, breaking through or slipping past any barriers or restraints in your way.
+
+☐ All Systems Go::
+You channel the full capacity of the Galahad system to overcome an obstacle, or reshape your environment. Spend 2 charge to take a 10+ when you unleash your powers.
+
+== Moves
+=== ☑ Martyr Protocol
+You’re willing to pay high costs to keep your loved ones safe.
+Take catastrophic damage to your suit in order to to defend a loved one as if you rolled a 12+.
+
+=== ☐ Pure Intentions
+You truly believe the best of those around you. When you strive to *encourage someone to be the best they can be, for motives that are above reproach*, you can provoke (Or *Persuade with their best interests* if you otherwise have access to it) using Savior.
+
+=== ☐  Hello Computer
+When you consult your tactical computer, roll +Superior.
+On a 10+ ask 2, on a 7-9 ask 1. Take +1 on rolls that act on the answers.
+
+* what’s my best way in/out?
+* What happened here recently?
+* What is likely to happen in the immediate future?
+
+On a miss, ask one anyway, but the answer will be incomplete or will otherwise lead you into trouble.
+
+=== ☐ Where does Q come up with this stuff?
+You have a corporate-military complex backing you, and the innovative minds that come with 6 figure salaries. When you need a device, weapon, or utility you don’t currently think you have, roll +Superior.
+
+On a hit, your tech-guys just happened to have packed what you need. You’ve got the item, or the suit can perform the task you have in mind for this scene!
+On a 10+, It’s been upgraded! The item works particularly well. Take +1 to any roll that uses this tool for the remainder of the scene
+
+On a miss, you think you have something that will work but it has a completely unintended side effect that the GM will reveal when you use it.
+
+=== ☐ Voice of an Icon
+when you give an NPC an order based on authority they recognize, roll + Savior. On a hit, they choose one:
+
+* do what you say
+* get out of your way
+* attack you at a disadvantage
+* freeze
+
+On a 10+, you also take +1 forward against them. On a miss, they do as they please and you take -1 forward against them
+
+=== ☐ I don’t understand you.
+When you see a hero behaving in a way that you believe to be un-heroic and confront them, Roll + Savior.
+On a hit, take Influence over them. On a 7-9, choose one. On a 10+, choose two.
+
+- They explain why they did what they did
+- They publicly admit their action was not heroic
+- They change their course or behavior
+- The hero you question is willing to think about your accusation rationally and NOT lash out
+- You convince an onlooker of your own heroism; take Influence over them
+
+
+On a miss, they remained convinced they are choosing correctly; mark a condition (their choice), shift Danger up, Savior down.
+
+
+
+
+They came looking for teenagers with attitude.
+Well. They found one.
