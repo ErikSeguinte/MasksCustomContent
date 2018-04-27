@@ -6,7 +6,7 @@ While transformed the following take effect:
 * Replace *Directly Engage a Threat* with the following:
 When you *aggressively engage a threat without care for your own or other's safety*,
 roll \+Danger. On a hit, you cause significant damage to your target.
-On a 7-9, choose 2. On a 10+, choose 1.
+On a 7-9, choose 2. On a 10+, choose one.
 ** Your aggressive attack leaves an opening, your opposition gets an opportunity
 ** You take significant damage yourself. Struggle past the pain and mark 2 conditions.
 ** you frighten others you had not intended to scare
