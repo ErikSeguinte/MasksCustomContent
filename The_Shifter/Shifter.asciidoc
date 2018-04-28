@@ -14,3 +14,7 @@ But all that changing doesn’t leave much space to know who you really are.
 Every new form comes at the cost of your sense of self, and you’ve begun to wonder if anything about you is actually locked.
 
 Whenever you make any roll + a label, shift that label up and another down, as if you were accepting Influence.
+
+== I'm as surprised as you already
+When someone with Influence over you tells you who you are and *you reject their influence by firmly declaring who you see yourself to be, take +2 to the roll.
+On a hit, you much choose to clear a condition or mark potential by immediately acting to prove their view of you wrong. On a 10+ you may choose to do both with the same dramatic declaration of self.
