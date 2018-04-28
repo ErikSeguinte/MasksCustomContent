@@ -2,12 +2,31 @@
 Erik Seguinte; S.M. Ketcham
 v0.1, 2018-04-26
 
+== Look
+
+* Nondescript appearance, forgettable appearance, embarrassingly flashy apperance
+* Androgynous gender, a-gender, stereotypical gender over-performance
+* Ambiguous racial background, mid-toned skin, multiracial
+* Easily-recognizable costume, no costume, monochrome costume
+* Full hood, full mask, face paint/makeup, no mask
+
+=== Tell
+
+* Single lock of differently colored hair
+* Unique and/or striking eyes
+* Revealing coloration
+* Fixed vocal range or tone
+* Unable to transform clothing/uniform
+* Identifying mark/tattoo
+Discernible odor/perfume/pheromone
+
+
 == Powers and abilities
-You are mercurial. With a single tell that is only know to those who are extraordinarily observant, or personally familarial to you, you are able to completely metamorphose. Your physical body, your mind, your talents, or all three can be altered by this shifting.
+You are mercurial. With a single tell that is only known to those who are extraordinarily observant, or personally familiarity to you, you are able to completely metamorphose. Your physical body, your mind, your talents, or all three can be altered by this shifting.
 
 Decide how and when these changes manifest for you. Pick one form of personal alteration. (Including, but not limited to: animal transmutation, inanimate object reproduction, personality emulation, eidetic mimicry, skinwalking, etc.). Then pick one tell that bridges every form you adopt.
 
-== Mercurial Nature
+== ❑ Mercurial Nature
 You can change. Adapt. Alter.
 You can mold yourself to what your team needs for each new challenge.
 But all that changing doesn’t leave much space to know who you really are.
