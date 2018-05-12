@@ -1,10 +1,10 @@
 = Psychic Villian Moves
 
-== Hey now, you're an all star
-When you *Put up your mental walls* roll \+Mundane.
-On a hit, you can ignore one mental probing this scene.
-On a 10+, you can ignore up to 2.
-On a miss, you can  choose to take a condition to act as if you rolled a 7.
+// == Hey now, you're an all star
+// When you *Put up your mental walls* roll \+Mundane.
+// On a hit, you can ignore one mental probing this scene.
+// On a 10+, you can ignore up to 2.
+// On a miss, you can  choose to take a condition to act as if you rolled a 7.
 
 ---
 
