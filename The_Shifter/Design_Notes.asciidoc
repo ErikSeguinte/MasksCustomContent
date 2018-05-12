@@ -1,0 +1,74 @@
+= The Shifter
+
+Everyone wishes they could be someone else sometimes. But you’re always someone else. It’s useful to be so adaptable, but sometimes you wonder, when you’re done wearing a champion’s disguise, if there’s a real you underneath.
+
+== Playing the Shifter
+Adaptable, uncertain, mercurial, inquisitive.
+The Shifter is all about learning who you are by becoming someone else.
+Your labels are fluid, even more so than the other playbooks.
+Every move shapes you and changes who you see yourself to be. Literally, thanks to your signature move, *Mercurial Nature*.
+You can be as excited as the Beacon.
+As rebellious as the Delinquent.
+As monstrous as the Transformed.
+
+But what are you when you are alone?
+When you can literally be anyone else, does the real you even matter?
+
+As a Shifter, your moment of truth is going to be that moment when you realize there's some part of you that is real, solid, and important to you.
+Use your moment of truth when you want to inject something worth fighting for into the narrative.
+
+
+== Notes on your moves and extras
+
+*Mercurial Nature* is your core move.
+It shifts your labels everytime you do a move.
+You cannot reject this influence, as using the move is accepting that this label is important to you.
+Remember that you cannot shift labels below -2 or above +3.
+If you are required to do so, mark a condition just like any other instance of label shifting.
+
+
+There's a lot of insecurity that comes a long to not knowing who you are.
+*Reckless Insecurities* is the embodiment of that.
+While it doesn't give you a bonus, it allows you to relieve conditions as if were insecure.
+Narratively, you weren't really _angry_. You were just insecure and it seemed like you were angry!
+
+
+When you reject someone's influence with a surprising declaration of self, one that you didn't even knew you felt, you're using *I'm as surprised as you are.*
+If you do use this, you must follow through with that declaration.
+You're doubling down.
+Because of course you are.
+
+//❑ Can you hear me now?
+//When you pierce the mask by embodying someone your target respects, admires, or fears, even on a miss you may ask 1 of the below questions. On a 10+, ask 2. Shift Danger down.
+//What is your price in this situation?
+//What is a dealbreaker for you in this situation?
+//What about this situation makes you insecure?
+//What would you rather be doing right now?
+//What would it take in this situation to make you angry?
+//How could you disrupt this situation, if you wanted to?
+
+
+
+*Up marketing* allows you to prey on a character's vanity.
+Since it uses _the target's conditions_ it is most useful after inflicting a few conditions using other moves.
+
+
+When you want to use your powers to become a random mook, your using *Mirror Mirror*. On a failure, you accidentally choose to become someone who is too important or noticeable.
+Becoming the CEO of the company you are trying to infiltrate when their supposed to be running a Board meeting is going to cause issues.
+Remember that this move doesn't include anything about dealing with the original mark that you're becoming. (See GM Moves)
+
+
+All that people watching is good for something.
+You’ve gotten quite adept at figuring out how your team responds to exigent circumstances, and what they might forget.
+When you use *Perfect Partner* you are providing just the right boost for your teammate. You are everything they didn't know they needed.
+Just be ready to explain how and why you seem to know them so well.
+
+When you have admitted to yourself that you can't do something... well...
+Obviously the solution is to just become someone else.
+You mark insecure when you use *Be Like Mike* because you've admitted that the real you is lacking.
+
+== GM moves
+* Bring Attention to their tell.
+* Bring the original into the scene.
+* Knock down an identity for lack of understanding.
+* Bring in a better suited Subject (Forcing them to choose to reset an identity)
