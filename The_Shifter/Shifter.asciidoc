@@ -1,16 +1,25 @@
+
 = The Shifter
-Erik Seguinte; S.M. Ketcham
-v0.1, 2018-04-26
 
-== Look
+Everyone wishes they could be someone else sometimes. But you’re *always* someone else. It’s useful to be so adaptable, but sometimes you wonder, when you’re done wearing a champion’s disguise, if there’s a real you underneath.
 
-* Nondescript appearance, forgettable appearance, embarrassingly flashy apperance
-* Androgynous gender, a-gender, stereotypical gender over-performance
-* Ambiguous racial background, mid-toned skin, multiracial
+== Labels:
+Danger: 0 +
+Freak: 0 +
+Savior: 0 +
+Superior: +1 +
+Mundane- +1 
+
+== Look*:
+
+* Ambiguous, man, shifting, transgressing, woman
+* Asian or South Asian, Black, Hispanic/Latino, Indigenous, Middle Eastern, White, Ambiguous racial background,  multiracial
+* Overlookable face, emotionless face, distinctive face, expressive face
 * Easily-recognizable costume, no costume, monochrome costume
 * Full hood, full mask, face paint/makeup, no mask
 
-=== Tell
+
+== *Tell*:
 
 * Single lock of differently colored hair
 * Unique and/or striking eyes
@@ -18,37 +27,195 @@ v0.1, 2018-04-26
 * Fixed vocal range or tone
 * Unable to transform clothing/uniform
 * Identifying mark/tattoo
-Discernible odor/perfume/pheromone
+* Discernible odor/perfume/pheromone
+
+== *Abilities:* +
+You are mercurial. With a single _tell_ that is only known to those who are extraordinarily observant, or personally familiarity to you, you are able to completely metamorphose. Your physical body, your mind, your talents, or all three can be altered by this shifting.
+
+Decide how and when these changes manifest for you. Pick one form of personal alteration. (Including, but not limited to: animal transmutation, inanimate object reproduction, personality emulation, eidetic mimicry, skinwalking, etc.). Then pick one _tell_ that bridges every form you adopt.
 
 
-== Powers and abilities
-You are mercurial. With a single tell that is only known to those who are extraordinarily observant, or personally familiarity to you, you are able to completely metamorphose. Your physical body, your mind, your talents, or all three can be altered by this shifting.
+== *Moment of Truth:* +
+You’ve finally figured it out. Who you want to be. It’s only taken wearing a thousand different Identities to get to this point. Maybe you don’t know everything. Maybe you’re not fully actualized. Maybe you borrowed your accent from the kid in math class But you have found a tenet. A belief. One fixed principal to build from. And with that foundation, you can do anything. Stand up. Declare the thing you know. The thing you are sure of. You finally have something to fight for. And *now* is when you’ve chosen to fight for it. You’ve got the skills, no matter who you got them from. Use them, and save the day.
 
-Decide how and when these changes manifest for you. Pick one form of personal alteration. (Including, but not limited to: animal transmutation, inanimate object reproduction, personality emulation, eidetic mimicry, skinwalking, etc.). Then pick one tell that bridges every form you adopt.
+Of course....heroes with principals make enemies. This new-found doctrine? It’s going to upset people. Maybe even teammates. You’ve barely figured out how to be *you*. Can you handle the repercussions when you decide *not* to adapt to people around you? 
 
-== ❑ Mercurial Nature
-You can change. Adapt. Alter.
-You can mold yourself to what your team needs for each new challenge.
-But all that changing doesn’t leave much space to know who you really are.
-Every new form comes at the cost of your sense of self, and you’ve begun to wonder if anything about you is actually locked.
+==*Team Moves:* +
+When you share a triumphant celebration with someone, decide if you like who you become around them. If you do, clear a condition and give them influence over you. If you do not, mark insecure and a potential.
 
-Whenever you make any roll + a label, shift that label up and another down, as if you were accepting Influence.
+When you share a vulnerability or weakness with a teammate, ask them if you’re what they expect you to be. If they tell you that you have surprised them, or defied their expectations, mark insecure, and a potential.
+
+==*Advancement:* +
+Potential
+❑	❑	❑	❑	❑
+
+*Labels:*
+
+*Conditions:* +
+❑ Afraid (-2 to directly engage a threat)  +
+❑ Angry (-2 to comfort or support or pierce the mask)  +
+❑ Guilty (-2 to provoke someone or assess the situation)  +
+❑ Hopeless (-2 to unleash your powers)  +
+❑ Insecure (-2 to defend someone or reject others’ influence) 
+
+== *Backstory*:
+
+* _Where did your power come from?_
+* _When did you first shift? What did you become?_
+* _Who, outside of the team, gets to see the real you?_
+* _What forms are you unable to take? What is the one thing you have never been able to shift into?_
+* _Why do you care about the team?_
+
+Once you’ve finished your backstory, introduce your character to the other players, and then determine what happened when your team first came together, the relationships between you and your teammates, and who has Influence over you.
+
+== *When our team first came together:* +
+When you first joined the team, you looked, sounded, or behaved differently than you do now. How does your team cope with your changing nature? How do they feel about the real you? (That is, if they know the real you.)
+
+== *Relationships*: +
+One of your teammates makes you doubt who you want to be. Who causes you to question your own identity?
+
+One of your teammates sees the real you, no matter what window dressing you wear. Who sees through the shift to the person underneath?
+
+== *Influence*: +
+One of your teammates seems to really understand who they are. Give influence to the teammate who you think is the most true to themself. 
+
+One of your teammates has something very distinctive about them you admire. Give influence to the teammate you’d most like to be.
 
 
-== Shifter Moves
-=== ❑ I'm as surprised as you are
-When someone with Influence over you tells you who you are and *you reject their influence by firmly declaring who you see yourself to be*, take +2 to the roll.
-On a hit, you much choose to clear a condition or mark potential by immediately acting to prove their view of you wrong. On a 10+ you may choose to do both with the same dramatic declaration of self.
 
-=== ❑ Can you hear me now?
-When you *pierce the mask by embodying someone your target respects, admires, or fears*, even on a miss you may ask 1 of the below questions. On a 10+, ask 2. Shift Danger down.
+== *Shifter Moves:*
 
-* What is your price in this situation?
-* What is a dealbreaker for you in this situation?
-* What about this situation makes you insecure?
-* What would you rather be doing right now?
-* What would it take in this situation to make you angry?
-* How could you disrupt this situation, if you wanted to?
+=== *Mercurial Nature:* +
+You can change. Adapt. Alter. You can mold yourself to what your team needs for each new challenge. But all that changing doesn’t leave much space to know who _you_ really are. Every new form comes at the cost of your sense of self, and you’ve begun to wonder if _anything_ about you is actually locked.
 
-=== ❑ Am I you, or are you me?
-When you commit to impersonate another person, you can study them more closely. Every action they take that surprises you, or contradicts your impression of them (You decide), is taken as an attempt to take influence over you. You may accept or reject it as normal, and use the knowledge to improve your mimicry. Every influence roll by this person toward you, success or failure,
+Whenever you *make any roll + a label*, shift the rolled label up and another down, as if you were accepting Influence. Down shifted labels begin at player’s discretion, but this may be altered by moves or conditions.
+
+=== ❑ *Reckless insecurities:*  +
+Once per scene, when you *take a foolhardy action without consulting the team*, you can clear any condition as though it were insecure.
+
+=== ❑* I'm as surprised as you are* +
+When someone with Influence over you tells you who you are and *you reject their influence by firmly declaring who you see yourself to be*, take +2 to the roll. +
+On a hit, you must choose to clear a condition or mark potential by immediately acting to prove their view of you wrong. On a 10+ you may choose to do both with the same dramatic declaration of self.
+
+=== *❑ Can you hear me now?* +
+When you* pierce the mask* *by embodying someone your target respects, admires, or fears*, even on a miss you may ask 1 of the below questions. On a 10+, ask 2. Shift Danger down.
+
+* _What is a dealbreaker for you in this situation?_
+* _What about this situation makes you insecure?_
+* _What would you rather be doing right now?_
+* _What would it take in this situation to make you angry?_
+* _How could you disrupt this situation, if you wanted to?_
+
+
+=== *❑ Up Marketing* +
+When you *provoke someone* by appealing to their vanity or self interest, roll + *their* conditions. On a 10+ gain influence over them. Shift Savior down.
+
+=== *❑ Mirror, mirror* +
+When you *use a non-descript, or easily overlooked form to deceive, trick, or slip past* someone, roll + Mundane. Shift Freak down. On a hit, they buy your facade. On a 7-9 choose one:
+
+* _You’re accepted so well they ask you to do something beyond your capabilities_
+* _You fail to recognize someone important_
+* _You make an enemy through inattention_
+* _You accidentally encounter the person you are impersonating_
+
+On  a miss, your persona is too obvious and recognizable to be overlooked. Attention is drawn to you.
+
+=== ❑ *Perfect Partner:*  +
+All that people watching is good for something. You’ve gotten quite adept at figuring out how your team responds to exigent circumstances, and what they might forget. When you *support a teammate* by anticipating their needs, or providing a resource at an opportune moment, give them influence, and spend up to 2 team points on the assist.
+
+=== ❑ *Be Like Mike: * +
+When you *take a powerful blow* as you think one of your Identities would, immediately shift into that Identity, mark insecure, and take -2 to the roll. If you have no identity to shift into, you may assign someone in the scene as an Subject. On a 10+ take -1 to the Identity, for revealing your lack of understanding.
+
+=== ❑ *I am Spartacus: * +
+When you *defend someone or something by impersonating it and drawing the aggression yourself*, roll as a standard defend action. Even on a miss choose one of the following. On a 10+, choose 2. Shift Superior down. +
+_-- If defending an existing Subject, increase Identity track by +1_ +
+_-- Make the target a Subject for your Identity at 0 on the track_ +
+_-- Create an opportunity for the victim_ +
+_-- Confuse or disorient the aggressor_ +
+_-- Incite the support of bystanders_
+
+== *Identity * +
+Shifters are observers. Students of behavior. They scrutinize the people around them, examining mien and manner to better replicate them.
+
+At any time, you may choose to *begin an in-depth study* of an individual, to make that person your alternate Identity. This Identity gains its own track, starting at -2, and is one that you can adopt at will. When you use your Identity to accomplish something you could not as yourself, or in a way you would not do as yourself, roll +Identity. All Shifter moves stack with an Identity.
+
+Shifters start with the ability to have one alternate Identity at a time, and may increase this with advancement.
+
+It takes time to learn someone, and even a good Shifter makes mistakes. Every action your Subject takes that *surprises you*, or *contradicts your impression* of them, is taken as an attempt to take influence over you.
+
+This influence may be accepted or rejected as normal, but every influence roll made by your Subject toward you, success or failure, advances the Identity track by +1. When a Shifter uses a move from their playbook on their subject, a miss reduces the Identity Track by -1.
+
+When the Identity track is at +3, you have learned your target better almost than they know themself, and you can effortlessly impersonate them. An Identity cannot drop below -2 or rise above +3. Mark a condition if you cannot shift the track as directed.
+
+You may change the target of your Identity track at any time, resetting the track to -2. This re-set applies even to previous Subjects.
+
+
+== Notes
+
+Everyone wishes they could be someone else sometimes. But you’re always someone else. It’s useful to be so adaptable, but sometimes you wonder, when you’re done wearing a champion’s disguise, if there’s a real you underneath. +
+Table of Contents
+
+. Playing the Shifter
+. Notes on your moves and extras
+. GM moves
+
+=== Playing the Shifter
+
+Adaptable, uncertain, mercurial, inquisitive. The Shifter is all about learning who you are by becoming someone else. Your labels are fluid, even more so than the other playbooks. Every move shapes you and changes who you see yourself to be. Literally, thanks to your signature move, *Mercurial Nature*. You can be as excited as the Beacon. As rebellious as the Delinquent. As monstrous as the Transformed. +
+But what are you when you are alone? When you can literally be anyone else, does the real you even matter?
+
+As a Shifter, your moment of truth is going to be that moment when you realize there’s some part of you that is real, solid, and important to you. Use your moment of truth when you want to inject something worth fighting for into the narrative.
+
+=== Notes on your moves and extras
+
+*Mercurial Nature* is your core move. It shifts your labels everytime you do a move. You cannot reject this influence, as using the move is accepting that this label is important to you. Remember that you cannot shift labels below -2 or above +3. If you are required to do so, mark a condition just like any other instance of label shifting.
+
+There’s a lot of insecurity that comes a long to not knowing who you are. *Reckless Insecurities* is the embodiment of that. While it doesn’t give you a bonus, it allows you to relieve conditions as if were insecure. Narratively, you weren’t really _angry_. You were just insecure and it seemed like you were angry!
+
+When you reject someone’s influence with a surprising declaration of self, one that you didn’t even knew you felt, you’re using *I’m as surprised as you are.* If you do use this, you must follow through with that declaration. You’re doubling down. Because of course you are.
+
+Sometimes you just need to make people listen to you. *Can you hear me now?* Lets you become someone your target wants to listen to, and use that facade to get more information about their motivations.
+
+*Up marketing* allows you to prey on a character’s vanity. Since it uses _the target’s conditions_ it is most useful after inflicting a few conditions using other moves.
+
+When you want to use your powers to become a random mook, your using *Mirror Mirror*. On a failure, you accidentally choose to become someone who is too important or noticeable. Becoming the CEO of the company you are trying to infiltrate when their supposed to be running a Board meeting is going to cause issues. Remember that this move doesn’t include anything about dealing with the original mark that you’re becoming. (See GM Moves)
+
+All that people watching is good for something. You’ve gotten quite adept at figuring out how your team responds to exigent circumstances, and what they might forget. When you use *Perfect Partner* you are providing just the right boost for your teammate. You are everything they didn’t know they needed. Just be ready to explain how and why you seem to know them so well.
+
+When you have admitted to yourself that you can’t do something…​ well…​ Obviously the solution is to just become someone else. You mark insecure when you use *Be Like Mike* because you’ve admitted that the real you is lacking.
+
+When you’re willing to become a stand in for a target in a dangerous situation, declare *I am Spartacus*. Save someone yourself, or get the entire crowd to help.
+
+=== The Identity Track
+
+The Shifter’s most unique power is their *ability to take on alternate Identities,* with mimicry that improves every time they learn about the target.
+
+While this is most strongly geared toward human Subjects and transformations, it can be used on anything, including animals and inanimate objects.
+
+Taking a human Subject for the Identity track is fairly straightforward. The Shifter targets that person, and every action the Subject takes near the Shifter helps the Shifter to become more in tune. For inanimate objects or animals, this is slightly less well defined.
+
+While normal rules of Influence apply between Shifter and Subject, any action taken by the Subject that surprises the Shifter, or challenges how they understand the Subject is seen as an attempt to take Influence, and rolled as such. HOwever, even a miss provides information, so all influence roles advance the Identity track +1
+
+For a Shifter taking a human/humanoid identity, this is clear enough, but for an animal or object identity, it is very much at Player and GM discretion. For an animal identity, *learning about its behaviors* would trigger an Influence roll. For example, learning the animal is diurnal, not nocturnal, or the animal’s true habitat or diet. For an inanimate object, *gaining information about it’s form or function* would have this effect. For example, if the Shifter has designated a Chevy Nova as their Subject, learning early models had a Chevy II nameplate would trigger an influence roll, and an increase on the track.
+
+It is possible to *move backward down the identity track* as well, either as a result of moves or GM discretion. Some reasons to reduce the track may include the Shifter making an obvious error while wearing the Identity, the Identity drastically changing his/her behavior or concept of self between scenes, dramatic physical changes or transformations (as with a Transformed), revelation of Secret or Mundane identity by the Subject. Actions that indicate the Shifter *badly misunderstood their Subject*, or that the Subject themself *made an immense change to themself* can trigger a reduction on the track. 
+
+If a Shifter is *wearing an Identity, the Identity can be rolled in place of any other applicable roll*. For example, a roll +Identity could replace +Savior for a defend action, if the Shifter is enmeshed in their Identity. This is at GM and Player discretion. If Identity is rolled instead of another label, the label that *should* have been rolled is increased by +1 for *Mercurial Nature*.
+
+=== GM moves
+
+* Bring Attention to their tell.
+* Bring the original into the scene.
+* Lower an identity track for lack of understanding.
+* Bring in a better suited Subject for this situation (Forcing them to choose to reset an identity)
+* Ask a question the *Subject *would know the answer to
+Example Shifters
+
+* Olivia Moore (iZombie TV Series)
+* Sam Merlotte (True Blood TV Series)
+* Mystique (X-Men First Class)
+* Odo (Star Trek: Deep Space Nine)
+* Nymphadora Tonks (Harry Potter Series)
+* J’onn J’onzz/Martian Manhunter (Supergirl TV Series)
+
+
