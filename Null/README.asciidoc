@@ -37,5 +37,5 @@ Powers and Abilities::
 == Villain Move: Null Pointer Exception
 Null is immune or highly resistant to most known super powers, including the products of super or alien tech. Psychic scrying or supertech detection devices will not recognize him. Super Punches will hit him only as hard as a mundane punch. He can still be hit indirectly, such as by throwing things at him, or causing things to happen around him, but if the effect is obviously super in nature, such as a wall of ice or plasma bolts, he might ignore those too.
 
-When you are *directly engage a threat* or *Unleash your Powers* by using super powers, you must roll with +Mundane if it is lower.
+When *use your Super Powers* to make a move, you must roll with +Mundane if it is lower.
 If you are using mundane skills acquired through hard-work, training, or natural ability, you may instead roll +Mundane if it is higher.
